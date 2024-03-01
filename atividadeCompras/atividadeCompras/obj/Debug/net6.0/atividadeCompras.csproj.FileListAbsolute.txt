@@ -1,0 +1,15 @@
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\bin\Debug\net6.0\atividadeCompras.exe
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\bin\Debug\net6.0\atividadeCompras.deps.json
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\bin\Debug\net6.0\atividadeCompras.runtimeconfig.json
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\bin\Debug\net6.0\atividadeCompras.dll
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\bin\Debug\net6.0\atividadeCompras.pdb
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.csproj.AssemblyReference.cache
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.AssemblyInfoInputs.cache
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.AssemblyInfo.cs
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.csproj.CoreCompileInputs.cache
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.dll
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\refint\atividadeCompras.dll
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.pdb
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\atividadeCompras.genruntimeconfig.cache
+E:\2ano\LinguagemdeProgramação\20230228\atividadeCompras\atividadeCompras\obj\Debug\net6.0\ref\atividadeCompras.dll
